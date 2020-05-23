@@ -1,0 +1,25 @@
+clare: 
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight2&accessories
+Type=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=CollarSweater&clotheColor=PastelRed&eye
+Type=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale'
+/>
+
+mel:
+
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairNotTooLong&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Red&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
+/>
+
+michael:
+
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=ShirtCrewNeck&clotheColor=Black&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale'
+/>
+
+
+mark:
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Brown&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray01&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale'
+/>
+
+laura:
+
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight2&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=PastelBlue&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
+/>

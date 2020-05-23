@@ -1,0 +1,36 @@
+clare flavorText:
+1: Has yet to go a day without eating a potato product.
+2: It's believed their wardrobe contains only the same shirt in every colour of the rainbow.
+3: Has a condition in which everything she sees is a feltie.
+4: Is well on the way to having a stuffed replica of every animal on the planet.
+5: Has a stationary owl named Travis.
+
+Mel flavorText:
+1: Some of their favourite foods include air, sarcastic comments, and beans. 
+2: Voted 'Straighest Person Ever' at their high school prom, despite wearing Doc Marten's.
+3: A fledging social media mogul, they have an ever increasing fan base.
+4: Will respond to 'Gilbert'.
+5: Holds the Guiness World Record for most blankets owned by one human.
+
+
+Laura flavorText:
+1: Believes she has a striking resemblance to Shakira.
+2: Often confused with Mutley.
+3: Dave Dave Dave Dave Dave Dave, Daved Dave. DAVE! Dave Dave, Dave Dave.
+4: Won the Eurovision Song Contest with a song about a lovely horse.
+5: Is a fan of the Philadelphia Phillies. GO PHILS!
+
+
+Mark flavorText:
+1: Can rap. Chooses not to.
+2: One of his most used phrases is "Look, Mom, I'm on TV!"
+3: Has a severe aversion to light bulbs.
+4: It's said his family constitute the entire population of Scotland.
+5: Is a TikTok influencer.
+
+Michael flavorText:
+1: Physically incapabable of wearing matching socks.
+2: Has been referred to as 'Glasgow's John Wick'.
+3: Famously irresponsible with money.
+4: Plans to hold the world to ransom by stealing its entire supply of ice cream.
+5: Almost met Jeremy Jordan thanks to an overwhelming need to pee.
